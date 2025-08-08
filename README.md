@@ -1,2 +1,4 @@
 # AnalPi
-AnalPi analyzes your Raspberry Pi's temperature, power consumption
+AnalPi simply, yet effortessley 
+analyzes your Raspberry Pi's temperature 
+and power consumption.
