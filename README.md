@@ -19,3 +19,4 @@ and power consumption.
 -macOS: Search for "Terminal" using Spotlight (Cmd + Space).
 -------------------------
 -Linux: Open your preferred terminal application (e.g., GNOME Terminal, Konsole).
+-------------------------
