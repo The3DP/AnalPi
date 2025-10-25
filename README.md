@@ -13,6 +13,9 @@ and power consumption.
 
 ### General Keywords and Process:
 -Open a Terminal/Command Prompt:
+-------------------------
 -Windows: Search for "cmd" (Command Prompt) or "PowerShell" in the Start Menu.
+-------------------------
 -macOS: Search for "Terminal" using Spotlight (Cmd + Space).
+-------------------------
 -Linux: Open your preferred terminal application (e.g., GNOME Terminal, Konsole).
